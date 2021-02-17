@@ -1,9 +1,7 @@
 Doc 1
 added a new line 0915 170221
 added 0933
-<<<<<<< HEAD
 added 1052
 added 1110
 =======
 added 1117
->>>>>>> testbranch1
